@@ -2,17 +2,19 @@
 
 ### This is Dharavath Ramdas
 
+i am lookig for fresher Python, SQL, Machine learning , Data Science, Deep Learning  jobs
+
 i was completed my graduation in Btech,  I have gained experience in machine learning, data science, and Python programming through internships and personal projects.
 
 ### Technical skills: 
 
-Proficient in Python, with experience in popular data science libraries such as NumPy, Pandas, Matplotlib, and Scikit-learn, machine learning, data science
+Proficient in Python, with experience in popular data science libraries such as NumPy, Pandas, Matplotlib, and Scikit-learn, machine learning, data science, deep learning, SQL, MongoDB, MySQL, Computer vision, NLP, MLops, Docker, GitHub
 
 ### Projects:
-Developed a sentiment analysis model using natural language processing techniques with an accuracy of 90% on a dataset of customer reviews. Used Python 3.x, NLTK, and Keras.
+Developed End-to-End Project Air Pressure System Sensor Fault detection using Machine Learning techniques with an accuracy of 90% on a dataset of Sensor Fault detection. Used Python, Machine Learning, MongoDB, MLops, CI/CD, AWS, Docker, GitHub.
 
 ### Education and Certifications: 
-Bachelor's degree in Computer Science from XYZ University, with a focus on machine learning and data science. Completed courses on data visualization, deep learning, and cloud computing.
+Bachelor's degree in EEE from JNTUH University, Full Stack Data Science Course From iNeuron.ai with a focus on machine learning and data science. Completed courses on Python, Machine learning, data visualization, deep learning, and cloud computing.
 
 ### Personal Interests: 
 I am passionate about machine learning and data science and enjoy participating in Kaggle competitions and attending meetups. I regularly read blogs by industry experts such as KDnuggets and Towards Data Science.
