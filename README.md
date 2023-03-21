@@ -2,6 +2,20 @@
 
 ### This is Dharavath Ramdas
 
+i was completed my graduation in Btech,  I have gained experience in machine learning, data science, and Python programming through internships and personal projects.
+
+### Technical skills: 
+
+Proficient in Python, with experience in popular data science libraries such as NumPy, Pandas, Matplotlib, and Scikit-learn, machine learning, data science
+
+### Projects:
+Developed a sentiment analysis model using natural language processing techniques with an accuracy of 90% on a dataset of customer reviews. Used Python 3.x, NLTK, and Keras.
+
+### Education and Certifications: 
+Bachelor's degree in Computer Science from XYZ University, with a focus on machine learning and data science. Completed courses on data visualization, deep learning, and cloud computing.
+
+### Personal Interests: 
+I am passionate about machine learning and data science and enjoy participating in Kaggle competitions and attending meetups. I regularly read blogs by industry experts such as KDnuggets and Towards Data Science.
 
 
 
