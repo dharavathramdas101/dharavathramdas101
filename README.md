@@ -19,7 +19,7 @@ Bachelor's degree in EEE from JNTUH University, Full Stack Data Science Course F
 ### Personal Interests: 
 I am passionate about machine learning and data science and enjoy participating in Kaggle competitions and attending meetups. I regularly read blogs by industry experts such as KDnuggets and Towards Data Science.
 
-
+![Profile views](https://img.shields.io/badge/dharavath__ramdas-views-green=<style>)
 
 <!--
 **dharavathramdas101/dharavathramdas101** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
