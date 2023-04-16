@@ -13,7 +13,7 @@
 
 ![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=dharavathramdas101&repo=ram)
 
-![counter](https://[https://pipedream.com/@dharavathramdas101].m.pipedream.net)
+![counter](https://pipedream.com/@dharavathramdas101)
 
 ### This is Dharavath Ramdas
 
