@@ -11,7 +11,7 @@
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=dharavathramdas101)
 
-![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=YourUsername&repo=dharavathramdas101)
+![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=dharavathramdas101&repo=ram)
 
 ### This is Dharavath Ramdas
 
