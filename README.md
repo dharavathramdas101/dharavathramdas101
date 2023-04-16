@@ -1,6 +1,4 @@
-### Hi there 👋
-
-### Hi there. I'm Kanav 👋
+### Hi there. I'm Ramdas 👋
 * ⚡ I love math and programming
 * 🌱 I’m addicted to learn and grow every day
 * 🌍 I am currently sharing a little bit of my knowledge to the world through my blogs and open source communities
@@ -11,7 +9,9 @@
 * 🔭 I’m currently working on democratizing AI
 * 💬 Ask me about Artificial Intelligence and Programming
 
-
+![Github stats](https://github-readme-stats.vercel.app/api?username=dharavathramdas101)
+Kanav's github stats
+Top Langs
 ### This is Dharavath Ramdas
 
 i am lookig for fresher Python, SQL, Machine learning , Data Science, Deep Learning  jobs
