@@ -10,6 +10,8 @@
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=dharavathramdas101)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dharavathramdas101)](https://github.com/dharavathramdas101?tab=repositories)
+
 ![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=dharavathramdas101&repo=Machine-Learning-Algorithms )
 
 ![counter](https://enhlkrw5lzpf9ip.m.pipedream.net)
