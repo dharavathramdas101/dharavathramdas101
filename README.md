@@ -10,8 +10,9 @@
 * 💬 Ask me about Artificial Intelligence and Programming
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=dharavathramdas101)
-Kanav's github stats
-Top Langs
+
+![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=YourUsername&repo=dharavathramdas101)
+
 ### This is Dharavath Ramdas
 
 i am lookig for fresher Python, SQL, Machine learning , Data Science, Deep Learning  jobs
