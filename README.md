@@ -1,5 +1,17 @@
 ### Hi there 👋
 
+### Hi there. I'm Kanav 👋
+*⚡ I love math and programming
+*🌱 I’m addicted to learn and grow every day
+*🌍 I am currently sharing a little bit of my knowledge to the world through my blogs and open source communities
+*📫 How to find me:
+*💡 Discord Community
+*🏢 LinkedIn
+*🔈 Youtube
+*🔭 I’m currently working on democratizing AI
+*💬 Ask me about Artificial Intelligence and Programming
+
+
 ### This is Dharavath Ramdas
 
 i am lookig for fresher Python, SQL, Machine learning , Data Science, Deep Learning  jobs
